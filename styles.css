@@ -1,0 +1,40 @@
+*{
+    background-color:cornsilk ;
+}
+
+body {
+    margin: 0;
+}
+
+h1,i{
+    background-color: burlywood;
+    text-align:center;
+    height: 100px;
+    text-decoration:underline;
+    
+}
+
+h3{
+    background-color: burlywood;
+}
+
+.first {
+     background-color: burlywood;
+      border: 2px solid transparent;
+      padding: 20px;
+      font-family:'Times New Roman', Times, serif;
+      font-size: 18px;
+      width: 50%;
+      text-align: justify;
+}
+
+button{
+    width: 80px;
+    height: 25pxpx;
+    text-align:center;
+    background-color: chocolate;
+}
+
+li{
+    background-color: burlywood;
+}
